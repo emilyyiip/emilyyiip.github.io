@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: emily yip pic.jpg
+  image: emily yip pic.jpeg
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
