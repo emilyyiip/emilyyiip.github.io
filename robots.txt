@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://emilyyip.github.io/website/sitemap.xml
+Sitemap: https://emilyyip.github.io/sitemap.xml
